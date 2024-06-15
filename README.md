@@ -1,3 +1,6 @@
+#Layout
+![airbnb clone](https://github.com/ayushibawari/airbnb/assets/110801551/263171b9-b109-436f-8cf1-5764abacb751)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
